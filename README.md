@@ -1,8 +1,7 @@
 # pomodoro-timer
 
-```
 https://pomodoro-count.netlify.app/
-```
+
 
 ## Project setup
 
